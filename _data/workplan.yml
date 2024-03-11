@@ -1,0 +1,54 @@
+- name: WP1
+  title: Project Management
+  leader: cnr
+  objective: Ensure that the project meets its objectives and overarching goal within budget and schedule, by following R&D best practices and in compliance with all ethical and legal requirements.
+  tasks:
+    - name: T1.1
+      title: Scientific and technical coordination 
+    - name: T1.2
+      title: Quality assurance and project oversight
+- name: WP2
+  title: User Modeling for Social Media Toxicity
+  leader: unifg
+  objective: Fulfill RO1 by advancing models of personality theory related to online toxicity, as well as reactions to past interventions, which will be used for intervention personalization.
+  tasks:
+    - name: T2.1
+      title: Selection of personality traits of intetest
+    - name: T2.2
+      title: Analysis of past interventions by social media platforms
+    - name: T2.3
+      title: Computational toxicity user model
+- name: WP3
+  title: Development of personalized interventions
+  leader: cnr
+  objective: Fulfill RO2 by developing models and a proof-of-concept system to deploy personalized moderation interventions against online toxicity, based on user traits and behavior.
+  tasks:
+    - name: T3.1
+      title: Design of personalized interventions
+    - name: T3.2
+      title: Computational personalization intervention model
+    - name: T3.3
+      title: Development of the proof-of-concept system
+- name: WP4
+  title: Validation of Methods
+  leader: unipi
+  objective: Validation of intermediate results and the overall methodological framework developed during the project.
+  tasks:
+    - name: T4.1
+      title: Validation via survey experiments
+    - name: T4.2
+      title: Validation via simulation experiments
+    - name: T4.3
+      title: Validation via field experiments
+- name: WP5
+  title: Dissemination and Exploitation
+  leader: cnr
+  objective: Communicate and make best use of project results with all stakeholders, including scholars, practitioners, and policymakers.
+  tasks:
+    - name: T5.1
+      title: Dissemination to the scientific community
+    - name: T5.2
+      title: Dissemination to the media 
+    - name: T5.3
+      title: Guidelines for stakeholders
+    

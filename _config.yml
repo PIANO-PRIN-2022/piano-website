@@ -1,0 +1,16 @@
+url: "http://piano-project.it" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "PIANO" # the name of your site, e.g. ACME Corp.
+tagline: Personalized Interventions Against Online Toxicity
+description: |
+  PIANO (Personalized Interventions Against Online Toxicity) is a research project to improve the effectiveness of online moderation on social media.
+logo: "/assets/imgs/piano_shield_logotype.png"
+timezone: "Europe/Rome"
+defaults:
+  -
+    values:
+      layout: "default"
+      logo: "/assets/imgs/piano_shield_logotype.png"
+scholar:
+  style: apa
+  bibliography_template: publication

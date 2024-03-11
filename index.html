@@ -1,0 +1,77 @@
+---
+title: "Home"
+navigable: true
+nav_order: 1
+---
+
+<hr>
+
+<section id="callout">
+  <header>
+    <h2>The Threat of Online Toxicity</h3>
+    <p>
+      Online toxicity hinders the exchange of information, increases radicalization, and may even cause offline harms.
+      Hence, online platforms employ various moderation interventions, such as warning messages or the removal of toxic content and users, but with varying success.
+    </p>
+  </header>
+    
+  <figure>
+    <img src="/assets/imgs/landing.jpg" alt="Woman looking with disbelief her phone due to online toxic against her">
+  </figure>
+
+  <blockquote>
+      <img src="/assets/imgs/icon_quote.svg" alt="Quote" height="80">
+      <br>
+      &ldquo;So far, all moderation interventions followed a <em>one-size-fits-all</em> approach, where each intervention was applied in the same way for all users.
+      However, personalization in online moderation remains completely unexplored&rdquo;
+      <footer>
+        <br>
+        - PIANO consortium
+      </footer>
+  </blockquote>
+</section>
+
+<hr>
+
+<section id="research-objectives">
+  <header>
+    <h2>Research Objectives</h2>
+    <p>To improve moderation interventions against online toxicity on users of social media, PIANO has two main Research Objectives (ROs):</p>
+  </header>
+  <aside>
+    <img src="assets/imgs/social-media-monochromatic.svg" alt="Understanding the user" height="180">
+    <h3>RO1: User Modeling</h3>
+    <p>
+      Model the complex relationship between social and personality traits of users and their reactions to moderation interventions.
+    </p>
+  </aside>
+  <aside>
+    <img src="assets/imgs/target-audience-monochromatic.svg" alt="Targeting the user" height="180"> 
+    <h3>RO2: Personalization</h3>
+    <p>
+      Develop a set of theoretical and computational models that tailor moderation interventions to individual toxic personality traits and behaviors.
+    </p>
+  </aside>
+</section>
+
+<hr>
+
+<section id="consortium">
+  <header>
+    <h2>Consortium</h2>
+  </header>
+  <div class="consortium-partners-container">
+    <div class="consortium-partners">
+      {% for partner in site.data.partners %}
+        <div>
+          {% include partner_img.html partner = partner %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  
+  <a href="/about.html" class="learn-more">
+    <i>Learn More About the Project</i>
+  </a>
+  
+</section>

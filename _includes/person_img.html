@@ -1,0 +1,15 @@
+{% assign filename = include.name |  replace: ' ', '_' | downcase  %}
+
+{%- capture filepath -%}
+  /assets/imgs/people/{{include.partner}}/{{filename}}.jpg
+{%- endcapture -%}
+
+{% assign img_src = "/assets/imgs/person_placeholder.png" %}
+
+{% for static_file in site.static_files %}
+  {% if static_file.path == filepath %}
+      {% assign img_src = filepath %}
+  {% endif %}
+{% endfor %}
+
+<img src="{{img_src}}" alt="Picture of {{include.name}}">

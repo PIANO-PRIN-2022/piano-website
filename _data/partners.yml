@@ -1,0 +1,62 @@
+- name: cnr
+  fullname: National Research Council
+  unit:
+    name: Institute of Informatics and Telematics
+    url: https://www.iit.cnr.it/en/
+    description: |
+      The **CNR** unit (project coordinator) has proven expertise in ICT research and technology transfer,
+      with an outstanding and award-winning track record of results in social media analysis and mining,
+      particularly about online harms detection and mitigation (e.g., toxicity, social bots, trolls, deepfakes).
+      It also has extensive expertise in all core areas of the project: big data, machine learning, natural
+      language processing, user interaction and persuasive technologies.
+  people:
+    - name: Stefano Cresci
+      info: Researcher / Principal Investigator
+    - name: Tiziano Fagni
+      info: Researcher
+    - name: Amaury Trujillo
+      info: Researcher
+    - name: Lorenzo Cima
+      info: PhD Candidate
+    - name: Benedetta Tessa
+      info: Research Fellow
+
+- name: unipi
+  fullname: University of Pisa
+  unit:
+    name: Department of Computer Science
+    url: http://https://di.unipi.it/en/
+    description: |
+      The **UNIPI** unit has a long and excellent experience in personal data analytics, user modeling,
+      decision support systems, agent-based models, federated learning and ethical aspects of AI
+      (explainability and fairness). The unit is part of the KDDLab, a joint research lab focusing on
+      theories, methods and systems for extracting knowledge out of big data. It also has expertise in
+      legal aspects of data protection, as part of DETECT (*Centro Interdipartimentale Diritto e
+      Tecnologie di Frontiera*).
+  people:
+    - name: Riccardo Guidotti
+      info: Assistant Professor / Partner Leader
+    - name: Andrea Michienzi
+      info: Assistant Professor
+    - name: Barbara Guidi
+      info: Assistant Professor
+    - name: Laura Pollacci
+      info: Assistant Professor
+    - name: Letizia Milli
+      info: Assistant Professor
+    - name: Francesca Cristiani
+      info: Associate Professor
+    
+- name: unifg
+  fullname: University of Foggia
+  unit:
+    name: Department of Humanities
+    url: https://www.studiumanistici.unifg.it/en
+    description: |
+      The **UNIFG** unit has leading expertise in multiple areas of social and personality psychology,
+      including psychometrics, personality and technological addictions, predictive models for reducing
+      maladaptive online interactions, identification of user profiles for personalized instructional contents,
+      and self-regulation processes of cognitive and emotional aspects.
+  people:
+    - name: Lucia Monacis
+      info: Associate Professor / Partner Leader

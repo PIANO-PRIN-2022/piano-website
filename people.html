@@ -1,0 +1,22 @@
+---
+  title: People
+  navigable: true
+  nav_order: 3
+---
+
+{% for partner in site.data.partners %}
+  <section class = "people">
+    <header>
+      <h2>{{ partner.fullname }}</h2>
+      <p>{{ partner.unit.name }}</p>
+    </header>
+    {% for person in partner.people %}
+      <aside>
+        {% include person_img.html partner = partner.name name = person.name %}
+        <h3>{{ person.name }}</h3>
+        <small>{{ person.info }}</small>
+      </aside>
+    {% endfor  %}
+  </section>  
+{% endfor %}
+

@@ -1,0 +1,17 @@
+---
+---
+
+{{ reference }}
+
+<div class="publication-links">
+  {% if entry.url %}
+    <a href="{{ entry.url }}" target="_blank">
+      link
+    </a>
+  {% endif %}
+  {% if entry.arxiv %}
+    <a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">
+      arXiv
+    </a>
+  {% endif %}
+<div>
