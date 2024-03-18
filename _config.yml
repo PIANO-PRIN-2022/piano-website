@@ -1,4 +1,4 @@
-url: "http://piano-project.it" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://piano-project.it" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "PIANO" # the name of your site, e.g. ACME Corp.
 tagline: Personalized Interventions Against Online Toxicity
