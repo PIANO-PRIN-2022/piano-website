@@ -11,6 +11,10 @@ defaults:
     values:
       layout: "default"
       logo: "/assets/imgs/piano_shield_logotype.png"
+  - scope:
+      path: ""
+    values:
+      image: "/assets/imgs/piano_shield_logotype.png"
 scholar:
   style: apa
   bibliography_template: publication
