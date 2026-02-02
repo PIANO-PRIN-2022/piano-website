@@ -2,7 +2,7 @@
 layout: post
 title:  "Impact Recognition Award at ACM CSCW 2025"
 author: Amaury Trujillo
-image: /assets/imgs/posts/mid_term_meeting.jpg
+image: /assets/imgs/posts/dsa_tdb_impact_award.png
 ---
 
 The PIANO-supported article titled "The DSA Transparency Database: Auditing Self-Reported Moderation Actions by Social Media" has won an Impact Recognition Award at the the 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (ACM CSCW 2025), the top conference in Social Computing, held this year in Bergen, Norway.
