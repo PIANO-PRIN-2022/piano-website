@@ -5,7 +5,7 @@ author: Amaury Trujillo
 image: /assets/imgs/posts/ecat_workshop.jpg
 ---
 
-This week, the European Centre for Algorithmic Transparency (ECAT) hosted a workshop focused on systemic risks on online platforms, in which a poster describing a few PIANO-supported studies on the Digital Services ACT (DSA) Transparency Database was presented.
+This week, the European Centre for Algorithmic Transparency (ECAT) hosted a workshop focused on systemic risks on online platforms, in which a poster describing a few PIANO-supported studies on the Digital Services Act (DSA) Transparency Database was presented.
 
 
 {% include post_fig.html src=page.image alt="Poster at ECAT workshop" %}
