@@ -13,4 +13,7 @@ Indeed, for the workshop's program we highlighted several of the more than twent
 
 Thanks to all the people who participated in the project!
 
-![Image]({{ site.baseurl }}//assets/imgs/posts/piano_final_workshop_program.png)
+
+<figure class="post-figure">
+    <img src="/assets/imgs/posts/piano_final_workshop_program.png" alt="Workshop program" style="max-width:600px;"/>
+</figure>
